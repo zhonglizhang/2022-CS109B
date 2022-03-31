@@ -27,13 +27,14 @@ ol {
 }
 </style>
 
+### [Final Project Guidelines](https://docs.google.com/document/d/1FYLKatP0WONtUO857fnU1gB7e4Ckx4taL-v48ut3Qmk/edit?usp=sharing) [Document]
 [A. Machine Learning for Medical Diagnosis](https://drive.google.com/file/d/17FL1QJJBwOPM58oxDPYBtZ6g0k_R4C5k/view?usp=sharing)
 
 B. Searching for Near Earth Asteroids
 
-C. Predicting Citation Networks in Legal Texts
+[C. Predicting Citation Networks in Legal Texts](https://docs.google.com/document/d/1LN8SL12X9RZxitbBKsltUU52MDwJhf3VbnIzCfcAK3k/edit?usp=sharing)
 
-D. Scene Detection for Design
+<del>D. Scene Detection for Design</del> [canceled]
 
 [E. Applied Differential Privacy](https://drive.google.com/file/d/1fCNgLdSdIxfGqd61l3gWNLx2W-7QoNHm/view?usp=sharing)
 
